@@ -1,0 +1,62 @@
+[
+  {
+    "index": 1,
+    "area_hint": "downtown intersection",
+    "status": "accepted",
+    "attempts": 1,
+    "sign": {
+      "street_name": "Ejecto Seato",
+      "suffix": "WAY"
+    }
+  },
+  {
+    "index": 2,
+    "area_hint": "residential street",
+    "status": "accepted",
+    "attempts": 1,
+    "sign": {
+      "street_name": "Ragdoll",
+      "suffix": "RD"
+    }
+  },
+  {
+    "index": 3,
+    "area_hint": "waterfront district",
+    "status": "accepted",
+    "attempts": 2,
+    "sign": {
+      "street_name": "No Bridge",
+      "suffix": "WAY"
+    }
+  },
+  {
+    "index": 4,
+    "area_hint": "historic district",
+    "status": "accepted",
+    "attempts": 1,
+    "sign": {
+      "street_name": "Olde Yeete",
+      "suffix": "LN"
+    }
+  },
+  {
+    "index": 5,
+    "area_hint": "shopping district",
+    "status": "accepted",
+    "attempts": 1,
+    "sign": {
+      "street_name": "Ragdoll Row",
+      "suffix": "AVE"
+    }
+  },
+  {
+    "index": 6,
+    "area_hint": "industrial district",
+    "status": "accepted",
+    "attempts": 1,
+    "sign": {
+      "street_name": "Yeetworks",
+      "suffix": "WAY"
+    }
+  }
+]

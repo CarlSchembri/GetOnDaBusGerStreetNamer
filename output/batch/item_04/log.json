@@ -1,0 +1,11 @@
+[
+  {
+    "attempt": 1,
+    "passed": true,
+    "reason": "Sign fits the panel, uses a valid suffix, and is an original street name.",
+    "sign": {
+      "street_name": "Olde Yeete",
+      "suffix": "LN"
+    }
+  }
+]

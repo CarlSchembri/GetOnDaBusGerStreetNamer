@@ -1,0 +1,20 @@
+[
+  {
+    "attempt": 1,
+    "passed": false,
+    "reason": "\"No Bridge Wharf WAY\" is 19 characters, but the sign panel only fits 16. It will overflow.",
+    "sign": {
+      "street_name": "No Bridge Wharf",
+      "suffix": "WAY"
+    }
+  },
+  {
+    "attempt": 2,
+    "passed": true,
+    "reason": "Sign fits the panel, uses a valid suffix, and is an original street name.",
+    "sign": {
+      "street_name": "No Bridge",
+      "suffix": "WAY"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+PRE-BUILD DECLARATION
+
+What content type does your game currently generate manually, inconsistently, or not at all?
+Street name signs for Fairweather intersections. Right now I'm typing each one by hand
+directly into the WBP_StreetSign widget, one at a time, with no consistency check.
+
+What specific rule from your GDD must every piece of that content satisfy?
+Every sign must: (1) fit the physical sign panel's character limit, (2) use a standard
+abbreviated suffix (ST, AVE, BLVD, RD, LN, DR, WAY, CT, or PL) matching real-world street
+sign convention, and (3) be an original Fairweather name, never a real-world street.
+
+What does a failure look like - concretely, in your game's terms?
+Text overflowing off the physical sign panel and becoming illegible, or a spelled-out
+suffix like "Boulevard" instead of "BLVD" that breaks Fairweather's signage convention
+and looks inconsistent next to every other sign in the town.
